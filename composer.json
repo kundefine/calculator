@@ -1,5 +1,4 @@
 {
-    "require": {
-        "php": "^7.2.5",
-    }
+    "name": "kajol/calculator",
+    "require": {}
 }
